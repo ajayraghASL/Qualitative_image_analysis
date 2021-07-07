@@ -1,7 +1,7 @@
 # Qualitative_image_analysis
 Python script to qualitatively analyse individual images or folder containing multiple images.
 
-The notebook can be used to calculate [Mean Absolute Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html), [mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) and [Structure Similarity Index](https://scikit-image.org/docs/dev/auto_examples/transform/plot_ssim.html)
+The notebook can be used to calculate [Mean Absolute Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html), [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) and [Structure Similarity Index](https://scikit-image.org/docs/dev/auto_examples/transform/plot_ssim.html)
 
 ## Usage
 
